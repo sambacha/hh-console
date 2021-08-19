@@ -1,4 +1,4 @@
-# `solidity hardhat template`
+# `hardhat-console`
 
 [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 
@@ -8,21 +8,15 @@ npm i -D hardhat @nomiclabs/hardhat-ethers @typechain/ethers-v5 @types/node@^14 
 
 ## Abstract
 
-Opinoninated Typescript/Solidity Framework
+HardHat's Solidity `console.sol` 
 
-## 🛠 Features
+## 🛠 Console Debugging
 
-- Google Typescript Style
-
-- Hardhat Framework
-
-- Conformant lint settings
+- TODO
 
 ## Usage
 
-### Typechain
-
-- outputDir = `src/`
+### Resources
 
 ## License
 
