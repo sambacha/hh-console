@@ -1,11 +1,10 @@
 {
-  "name": "solidity-hardhat-template",
-  "private": true,
+  "name": "hardhat-console",
   "version": "1.0.0",
-  "description": "typescript hardhat base with conformant linting",
+  "description": "hardhat console.sol, abi and typings",
   "files": [
     "/contracts/**/*.sol",
-    "/build/contracts/*.json",
+    "/lib/contracts/*.json",
     "!/contracts/mocks/**/*"
   ],
   "scripts": {
